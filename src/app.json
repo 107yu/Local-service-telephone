@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/map/main",
+    "pages/interviewList/main",
+    "pages/interviewDetail/main",
+    "pages/login/main",
+   
+    "pages/address/main",
+    "pages/punchClock/main",
+    "pages/addList/main"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "一面而就",
+    "navigationBarTextStyle": "black"
+  }
+}
